@@ -1,5 +1,6 @@
 # Healthcare Ad Spend Analysis
 **By: Taran Schlichtmann**
+
 **Date: 10/14/2025**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1biipk8rwW8KrbrZhNZHAfXt8hH-7khL1)
